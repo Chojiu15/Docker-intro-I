@@ -35,5 +35,5 @@ In this folder, you will find **two applications**:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:Chojiu15/Docker-intro-I.git
    cd docker-intro
